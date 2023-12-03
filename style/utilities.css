@@ -1,0 +1,21 @@
+.border:hover {
+  border: 1px solid white;
+  border-radius: 4px;
+  cursor: pointer;
+  padding: 0.2rem;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.fontfamily {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.font-size {
+  font-size: 1.2rem;
+}
+.font-center {
+  text-align: center;
+}
